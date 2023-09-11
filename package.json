@@ -30,7 +30,7 @@
   "dependencies": {
     "byline": "^5.0.0",
     "graceful-fs": "^4.1.15",
-    "node-gyp": "^9.4.0",
+    "node-gyp": "https://github.com/nodejs/node-gyp/archive/d3615c66f7e7a65de48ce9860b1fe13710d20988.tar.gz",
     "resolve-from": "^4.0.0",
     "slide": "^1.1.6",
     "uid-number": "0.0.6",
